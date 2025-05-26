@@ -5,4 +5,5 @@ git add reeadme.txt
 git comit -m "just test again"
 Git is free software.
 zsh
+&
 1
