@@ -5,6 +5,6 @@ git add reeadme.txt
 git comit -m "just test again"
 Git is free software.
 zsh
-
+merge
 and
 1
